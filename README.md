@@ -6,3 +6,4 @@ See [Wiki](https://github.com/UofA-SPI21-team7/zettlr-assignment/wiki):
 * [Zettlr setting up your development environment](https://github.com/UofA-SPI21-team7/zettlr-assignment/wiki/Zettlr-setting-up-your-development-environment)
 * [Tray design](https://github.com/UofA-SPI21-team7/zettlr-assignment/wiki/Tray-design)
 * [Zettlr creating packages](https://github.com/UofA-SPI21-team7/zettlr-assignment/wiki/Zettlr-creating-packages)
+* [Contribution to an open source project](https://github.com/UofA-SPI21-team7/zettlr-assignment/wiki/Contribution-to-an-open-source-project)
